@@ -10,8 +10,11 @@ enabling stakeholders to monitor and analyze credit card operations effectively.
 • Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
 
 ## **DashBoard Reports:**
-### Credit_Card_Financial_Dashboard_Customer:
-![Alt Text](https://github.com/abhaynadiger/Bi_Report_Dashboard/Credit_Card_Financial_Dashboard_Customer.png)
+### - Credit_Card_Financial_Dashboard_Customer:
+![Alt Text](https://github.com/abhaynadiger/Bi_Report_Dashboard/blob/main/Credit_Card_Financial_Dashboard_Customer.png)
+
+### - Credit_Card_Financial_Dashboard_Customer:
+![Alt Text](https://github.com/abhaynadiger/Bi_Report_Dashboard/blob/main/credit_card_transaction_report.png)
 
 ## **Project Insights:**
 • Revenue increased by 28.8%,
