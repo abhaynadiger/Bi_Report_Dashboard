@@ -10,7 +10,7 @@ Credit card financial dashboard using Power BI:
 • Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
 
 DashBoard Reports:
-![Alt text](abhaynadiger/Bi_Report_Dashboard/Credit Card Financial Dashboard-Customer.png?raw=true "Credit Card Financial Dashboard-Customer")
+![Alt text](Credit Card Financial Dashboard-Customer.png?raw=true "Credit Card Financial Dashboard-Customer")
 
 Project Insights:
 • Revenue increased by 28.8%,
