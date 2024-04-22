@@ -1,18 +1,18 @@
-####Credit_Card_Financial_Dashboard
+# **Credit_Card_Financial_Dashboard**
 
-Project Objective
+## **Project Objective**
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, 
 enabling stakeholders to monitor and analyze credit card operations effectively.
 
-Credit card financial dashboard using Power BI:
+## **Credit card financial dashboard using Power BI:**
 • Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.
 • Streamlined data processing & analysis to monitor key performance metrics and trends.
 • Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
 
-DashBoard Reports:
-![Alt Text](https://github.com/abhaynadiger/Bi_Report_Dashboard/Credit Card Financial Dashboard-Customer.png)
+## **DashBoard Reports:**
+![Alt Text] (abhaynadiger/Bi_Report_Dashboard/Credit Card Financial Dashboard-Customer.png)
 
-Project Insights:
+## **Project Insights:**
 • Revenue increased by 28.8%,
 • Total Transaction Amt & Count increased by xx% & xx%
 • Customer count increased by xx%
@@ -29,6 +29,7 @@ Import data to SQL database
 3. import csv file into SQL
 
 DAX Queries
+```
 1) AgeGroup = SWITCH(
 TRUE(),
 'public cust_detail'[customer_age] < 30, "20-30",
@@ -60,3 +61,4 @@ SUM('public cc_detail'[Revenue]),
 FILTER(
 ALL('public cc_detail'),
 'public cc_detail'[week_num2] = MAX('public cc_detail'[week_num2])-1))
+```
